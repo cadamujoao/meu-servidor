@@ -7,7 +7,7 @@
 
     {{-- github --}}
     <div>
-        github sg sfgsdfgsgfdg 
+        github
     </div>
     
     Esse é meu cabeçalho personalizado
